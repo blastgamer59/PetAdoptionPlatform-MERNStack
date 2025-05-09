@@ -83,7 +83,7 @@ npm start
 | `/api/pets`              | GET    | Get list of all available pets              |
 | `/api/favorites`         | POST   | Add a pet to user’s favorites               |
 | `/api/favorites/:userId` | GET    | Get user’s favorite pets                    |
-| `/api/appointments`      | POST   | Submit adoption form and schedule a meeting |
+| `/api/adoption`          | POST   | Submit adoption form and schedule a meeting |
 
 
 
